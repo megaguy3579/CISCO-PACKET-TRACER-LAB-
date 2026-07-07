@@ -1,5 +1,0 @@
-Lab 1 - Network Configuration
-
-Image Reference: file_0000000030b87206acd0b2c7e099a8fc.png
-
-For detailed documentation with embedded image, see lab1.md
